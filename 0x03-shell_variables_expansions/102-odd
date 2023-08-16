@@ -1,0 +1,2 @@
+#!/bin/bash
+perl -lne 'pribt if $. %2==1'
